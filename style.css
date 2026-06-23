@@ -1,0 +1,39 @@
+header{text-align: center;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 500;
+    
+        }
+
+body{
+    background-color: rgb(255, 255, 255);
+    background-image: url(ChatGPT\ Image\ Jun\ 11\,\ 2026\,\ 12_42_48\ PM.png);
+    background-repeat: no-repeat;
+   
+    
+    
+}
+#intro{
+    text-align:initial ;
+    color: rgb(10, 86, 121);
+    font-size:x-large
+}
+#About{
+    margin-top: 60vh;
+}
+
+#services{
+    margin-top: 50vh;
+}
+#contact{
+
+    margin-top: 40vh;
+    text-decoration: none;
+    color: #113e44;
+    font-weight: bold;
+}
+.footer{
+    text-align: center;
+}
+
+
