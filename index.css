@@ -35,5 +35,23 @@ body{
 .footer{
     text-align: center;
 }
+/* Desktop */
+.container {
+    width: 80%;
+}
+
+/* Tablet */
+@media screen and (max-width: 992px) {
+    .container {
+        width: 90%;
+    }
+}
+
+/* Mobile */
+@media screen and (max-width: 600px) {
+    .container {
+        width: 100%;
+    }
+}
 
 
