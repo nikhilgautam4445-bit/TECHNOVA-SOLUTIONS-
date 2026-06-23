@@ -54,4 +54,11 @@ body{
     }
 }
 
+@media screen and (max-width: 480px) {
+    body{
+        background-size: cover;
+        background-position: center top;
+        background-attachment: scroll; /* Better performance on mobile */
+    }
+}
 
